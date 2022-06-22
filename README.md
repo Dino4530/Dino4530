@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dino4530
+- 👋 Hi, I’m Sen Oga Emmanuel @Dino4530
 - 👀 I’m interested in ...Programming 
 - 🌱 I’m currently learning ...front end developer 
 - 💞️ I’m looking to collaborate on ...all other languages 
